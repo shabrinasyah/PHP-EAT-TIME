@@ -1,0 +1,164 @@
+/* .custom-button {
+    background-color: #B06932 !important;
+    color: white !important; 
+    border: none !important;
+    border-radius: 5px !important;
+    padding: 10px 20px !important;
+    text-align: center !important;            
+    cursor: pointer !important;
+    margin: 30px !important;
+    transition: background-color 0.3s !important;
+  }
+  .custom-button:hover {
+    background-color: #E7B36C !important;
+    border: 2px solid #E7B36C !important;
+  } */
+
+@import url('https://fonts.googleapis.com/css2?family=Coiny&family=Handlee&family=Nunito&family=Sniglet:wght@800&family=Taviraj&family=Ultra&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@600&family=Frank+Ruhl+Libre&family=Inter:wght@100&display=swap');
+.navbar a{
+    font-family:  "Nunino" !important;
+}
+    
+.navbar {
+    background-color: #181517 !important;
+    /* color: #fff !important; */
+    opacity: 0.9;
+
+    
+}
+
+.hero h1{
+    font-family: 'Caveat', sans-serif !important;
+    color: #d8bea5;
+    font-size: 80px;
+
+}
+
+
+  a {
+    color: #f30;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #B06932 !important;
+}
+
+
+
+
+.form-control-lg,
+.dropdown-menu,
+.btn,
+.btn-group-lg>.btn,
+.btn-lg,
+.img-rounded {
+    border-radius: 2px !important;
+}
+
+.btn {
+    transition: all .4s !important;
+}
+
+.btn-secondary {
+    color: #373a3c !important;
+    background-color: rgba(252, 251, 249, 0.68) !important;
+    border-color: #eaebeb !important;
+}
+
+.theme-btn {
+    background-color: #B06932 !important;
+    color: white !important; 
+    border: none !important;
+    border-radius: 5px !important;
+    padding: 10px 20px !important;
+    text-align: center !important;            
+    cursor: pointer !important;
+    margin: 30px !important;
+    transition: background-color 0.3s !important;
+}
+
+.theme-btn-dash {
+    border: 2px dashed #B06932 !important;
+    background-color: transparent;
+    color: #B06932 !important;
+}
+
+.theme-btn-dash:hover,
+.theme-btn,
+.theme-btn.btn-lg:hover,
+.btn-secondary:hover {
+    background-color:#E7B36C !important;
+    color: #fff !important;
+    border: 1px solid#E7B36C !important;
+}
+
+.theme-btn-dash:hover {
+    border: 2px solid #E7B36C !important;
+    color: #fff
+}
+
+.bg-white {
+    background-color: #fff
+}
+
+.primary-color {
+    color: #B06932 !important;
+}
+
+.how-it-works {
+    background-image: url(../images/wood-pattern.jpeg) !important;
+}
+
+.how-it-works-wrap, h3 {
+    color: #F5D2A9 !important;
+    font-family:  "Nunino" !important;
+}
+
+
+.food-item-wrap {
+    border: 1px solid #eaebeb !important;
+    border-radius: 20px !important;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.5) !important; 
+}
+
+
+.popular h2{
+    font-family: 'Caveat', sans-serif !important;
+    color: #B06932 !important;
+    font-size: 50px !important;
+}
+.popular .lead{
+    font-family: 'Caveat', sans-serif !important;
+    color: #000 !important;
+    font-size: 30px !important;
+}
+
+
+/* footer {
+    background: url(../images/wood-pattern.jpeg)center repeat !important;   
+} */
+
+footer a{
+    color: #fff !important;
+    font-family:  "Nunino" !important;
+    font-size: 1.5rem !important;
+}
+.footer-name a {
+    color:  #B06932  !important;
+    font-size: 20px !important;
+    margin: 20px !important;
+   
+ 
+}
+.footer-name a:hover{
+    color :  #dba36a !important;
+    
+}
+
+.top-footer .footer-logo{
+    color : #4D8576 !important;
+    font-size: 40px !important;
+}
+
